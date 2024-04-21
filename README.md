@@ -9,8 +9,8 @@ Delete single task
 
 ## Technology used
 
-HTML
-CSS
+HTML<br>
+CSS<br>
 JavaScript
 
 
