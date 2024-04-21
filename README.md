@@ -4,7 +4,7 @@ ToDo list is a simple web application. Firstly , I apologise for that i haven't 
 
 # Features
 
-Add new task<b>
+Add new task   <br>
 Delete single task
 
 ## Technology used
