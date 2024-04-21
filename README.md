@@ -8,6 +8,7 @@ Add new task
 Delete single task
 
 ## Technology used
+
 HTML
 CSS
 JavaScript
